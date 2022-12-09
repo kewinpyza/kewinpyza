@@ -17,6 +17,7 @@
 ## Fun facts about me
 <p>:raccoon: I respond really fast to messages<p>
 <p>:clown_face: I can be funny sometimes<p>
+<p>:technologist: I like work from office</p>
 
 ## Contact Me
 <p align="left">
