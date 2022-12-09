@@ -25,8 +25,8 @@
 </p>
 
 ## Some Stats
-<p><img align="left" height='180px' src="https://github-readme-stats.vercel.app/api/top-langs?username=kewinpyza&show_icons=true&locale=en&layout=compact" alt="kewinpyza" /></p>
+<p><img align="left" height='150px' src="https://github-readme-stats.vercel.app/api/top-langs?username=kewinpyza&show_icons=true&locale=en&layout=compact" alt="kewinpyza" /></p>
 
-<p>&nbsp;<img align="center" height='180px' src="https://github-readme-stats.vercel.app/api?username=kewinpyza&show_icons=true&locale=en" alt="kewinpyza" /></p>
+<p>&nbsp;<img align="center" height='150px' src="https://github-readme-stats.vercel.app/api?username=kewinpyza&show_icons=true&locale=en" alt="kewinpyza" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kewinpyza&" alt="kewinpyza" /></p>
+<p><img align="center" height="170px" src="https://github-readme-streak-stats.herokuapp.com/?user=kewinpyza&" alt="kewinpyza" /></p>
