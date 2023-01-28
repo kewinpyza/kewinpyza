@@ -32,3 +32,5 @@
 <p>&nbsp;<img align="center" height='150px' src="https://github-readme-stats.vercel.app/api?username=kewinpyza&show_icons=true&locale=en" alt="kewinpyza" /></p>
 
 <p><img align="center" height="170px" src="https://github-readme-streak-stats.herokuapp.com/?user=kewinpyza&" alt="kewinpyza" /></p>
+
+![snake gif](https://github.com/kewinpyza/kewinpyza/blob/output/github-contribution-grid-snake.gif)
