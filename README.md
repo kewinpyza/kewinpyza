@@ -21,9 +21,17 @@
 <p>:technologist: I like working from office</p>
 <p>:soccer: Hobby: Football / Martial Arts / Gym / Technology / Travel</p>
 
+### Projects
+| Name | Description | Source | Deploy |
+|:----:|:------------|:----:|:-----------:|
+| ***mapMyTrainings App*** | (Still in progress) The web app with the ability to create and save in local storage your running/cycling workouts. The app uses map, geocoding, navigation and weather APIs. Created with HTML5, npm and JS, styling with SASS. | [GitHub](https://github.com/kewinpyza/mapMyTrainings-app) | [Netlify](https://mapmytrainings-kpyza.netlify.app/) |
+| ***Guess Number App*** | The game where you have to guess the correct number between 1 and 25. Fully responsive, cool designed. Created with HTML5, CSS3 and JS | [GitHub](https://github.com/kewinpyza/Guess-Number-Game) | [Netlify](https://guess-num-kewinpyza.netlify.app/index.html) |
+| ***Diet Catering Website*** | The diet catering website for an imaginary company. Created with HTML5, CSS3 and JS | [GitHub](https://github.com/kewinpyza/shamaiToo-site) | [Netlify](https://shamaitoo-kpyza.netlify.app/) |
+
 ## Contact Me
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/kewinpyza)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/kewin-pyza-b4610923a/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/kews98/) 
-<p>📧 Mail: <a href="mailto:kewin.pyza@gmail.com">kewin.pyza@gmail.com</a></p>
+
+📧 Mail: [**kewin.pyza@gmail.com**](mailto:kewin.pyza@gmail.com)
 
 ## Some Stats
 <p><img align="left" height='150px' src="https://github-readme-stats.vercel.app/api/top-langs?username=kewinpyza&show_icons=true&locale=en&layout=compact" alt="kewinpyza" /></p>
