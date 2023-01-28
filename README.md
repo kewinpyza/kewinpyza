@@ -18,7 +18,7 @@
 ## Facts about me
 <p>:raccoon: I respond really fast to messages<p>
 <p>:clown_face: I can be funny sometimes<p>
-<p>:technologist: I like working from office</p>
+<p>:briefcase: I like working from office</p>
 <p>:soccer: Hobby: Football / Martial Arts / Gym / Technology / Travel</p>
 
 ### Projects
