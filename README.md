@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&color=9380F7&background=FFFFFF00&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Kewin+-+Frontend+Developer)](https://git.io/typing-svg)
 
-<p>I am a self learning Front-End Developer with one year of non-commercial experience. I am ambitious, persistent, hungry for knowledge and challanges. I really like to create Web Apps and Websites. I quickly acquire knowledge, adapt to new technologies and learn every day to improve my skills in programming. I am looking for my first job as Junior/Intern Front-End Developer. 😊</p>
+<p>I am a self-taught Front-End Developer with about a year of non-commercial experience. I am ambitious, persistent, hungry for knowledge and challanges. I really like to create Web Apps and Websites. I quickly acquire knowledge, adapt to new technologies and learn every day to improve my skills in programming. I am looking for my first job as Junior/Intern Front-End Developer. 😊</p>
 <p>I graduated in Mechanical Engineering with a specialization in 3D Design and Modeling of Technological Processes.</p>
 
 
@@ -23,7 +23,7 @@
 ### Projects
 | Name | Description | Source | Deploy |
 |:----:|:------------|:----:|:-----------:|
-| ***mapMyTrainings App*** | The web app with the ability to create and save in local storage your running/cycling workouts. Double click on map to show workout's set up. The app uses map, geocoding, navigation and weather APIs. Created with HTML5, npm and Vanilla JS, styling with SASS. | [GitHub](https://github.com/kewinpyza/mapMyTrainings-app) | [Netlify](https://mapmytrainings-kpyza.netlify.app/) |
+| ***mapMyTrainings App*** | The web app with the ability to create and save your running/cycling workouts in the device memory. You can designate the path of your training route, the app will calculate workout distance and display stats in the sidebar. You can also edit, delete workouts, overview markers with popup on map, sort workouts, display 3D view on map etc. The app uses map, geocoding, navigation and weather APIs. Created with HTML5, npm and Vanilla JS, styling with SASS. | [GitHub](https://github.com/kewinpyza/mapMyTrainings-app) | [Netlify](https://mapmytrainings-kpyza.netlify.app/) |
 | ***Guess Number App*** | The game where you have to guess the correct number between 1 and 25. Fully responsive, cool designed. Created with HTML5, CSS3 and JS | [GitHub](https://github.com/kewinpyza/Guess-Number-Game) | [Netlify](https://guess-num-kewinpyza.netlify.app/index.html) |
 | ***Diet Catering Website*** | The diet catering website for an imaginary company. Created with HTML5, CSS3 and JS | [GitHub](https://github.com/kewinpyza/shamaiToo-site) | [Netlify](https://shamaitoo-kpyza.netlify.app/) |
 
