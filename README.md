@@ -39,4 +39,7 @@
 
 <p><img align="center" height="170px" src="https://github-readme-streak-stats.herokuapp.com/?user=kewinpyza&" alt="kewinpyza" /></p>
 
-![snake gif](https://github.com/kewinpyza/kewinpyza/blob/output/github-contribution-grid-snake.gif)
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  <img alt="snake eating my contributions" src="https://github.com/kewinpyza/kewinpyza/output/github-contribution-grid-snake.svg" /> 
+</div>
